@@ -33,4 +33,10 @@ If you have any questions, run into issues, or just want to share your feedback,
 
 If you enjoy RecipeReserve, please consider leaving a review on the App Store. Your feedback helps us improve and inspire other users to discover the joy of cooking!
 
+## Privacy Policy
+
+For more information on our privacy policy and terms of service, please visit:
+
+- **Privacy Policy:** https://www.freeprivacypolicy.com/live/2eb62787-f825-4c26-b693-3eeb09f5563b
+
 We hope RecipeReserve adds a touch of culinary magic to your kitchen. Happy cooking!
